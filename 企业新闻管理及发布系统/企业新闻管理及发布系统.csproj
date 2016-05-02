@@ -57,6 +57,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,10 +68,162 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Ascx\Header1.ascx" />
+    <Content Include="Ascx\Header2.ascx" />
+    <Content Include="Ascx\Header3.ascx" />
+    <Content Include="Ascx\News.ascx" />
+    <Content Include="Ascx\Manager_Side0.ascx" />
+    <Content Include="Ascx\Manager_Side1.ascx" />
+    <Content Include="Ascx\Side1.ascx" />
+    <Content Include="Ascx\Side2.ascx" />
+    <Content Include="Ascx\Side3.ascx" />
+    <Content Include="Css\bootstrap-theme.css" />
+    <Content Include="Css\bootstrap.css" />
+    <Content Include="Css\Main.css" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="Index.aspx" />
+    <Content Include="Js\bootstrap.js" />
+    <Content Include="Js\jquery-2.2.3.min.js" />
+    <Content Include="Manager\Index.aspx" />
+    <Content Include="Manager\News_CompanyEdit.aspx" />
+    <Content Include="Manager\News_CompanyList.aspx" />
+    <Content Include="News\News_Company.aspx" />
+    <Content Include="News\News_Focus.aspx" />
+    <Content Include="News\News_Products.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Header1.ascx.cs">
+      <DependentUpon>Header1.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Header1.ascx.designer.cs">
+      <DependentUpon>Header1.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Header2.ascx.cs">
+      <DependentUpon>Header2.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Header2.ascx.designer.cs">
+      <DependentUpon>Header2.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Header3.ascx.cs">
+      <DependentUpon>Header3.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Header3.ascx.designer.cs">
+      <DependentUpon>Header3.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\News.ascx.cs">
+      <DependentUpon>News.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\News.ascx.designer.cs">
+      <DependentUpon>News.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Manager_Side0.ascx.cs">
+      <DependentUpon>Manager_Side0.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Manager_Side0.ascx.designer.cs">
+      <DependentUpon>Manager_Side0.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Manager_Side1.ascx.cs">
+      <DependentUpon>Manager_Side1.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Manager_Side1.ascx.designer.cs">
+      <DependentUpon>Manager_Side1.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Side1.ascx.cs">
+      <DependentUpon>Side1.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Side1.ascx.designer.cs">
+      <DependentUpon>Side1.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Side2.ascx.cs">
+      <DependentUpon>Side2.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Side2.ascx.designer.cs">
+      <DependentUpon>Side2.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Ascx\Side3.ascx.cs">
+      <DependentUpon>Side3.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ascx\Side3.ascx.designer.cs">
+      <DependentUpon>Side3.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\News_CompanyEdit.aspx.cs">
+      <DependentUpon>News_CompanyEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\News_CompanyEdit.aspx.designer.cs">
+      <DependentUpon>News_CompanyEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\News_CompanyList.aspx.cs">
+      <DependentUpon>News_CompanyList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\News_CompanyList.aspx.designer.cs">
+      <DependentUpon>News_CompanyList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\News_Company.aspx.cs">
+      <DependentUpon>News_Company.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\News_Company.aspx.designer.cs">
+      <DependentUpon>News_Company.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\News_Focus.aspx.cs">
+      <DependentUpon>News_Focus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\News_Focus.aspx.designer.cs">
+      <DependentUpon>News_Focus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News\News_Products.aspx.cs">
+      <DependentUpon>News_Products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News\News_Products.aspx.designer.cs">
+      <DependentUpon>News_Products.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="DTcms.Common\DTcms.Common.csproj">
+      <Project>{56213535-7fd9-4acd-a497-705670ce61dc}</Project>
+      <Name>DTcms.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="DTcms.DBUtility\DTcms.DBUtility.csproj">
+      <Project>{e2c9435b-cb68-465a-bdf9-333f2d75e81b}</Project>
+      <Name>DTcms.DBUtility</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

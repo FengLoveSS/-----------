@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "企业新闻管理及发布系统", "企业新闻管理及发布系统\企业新闻管理及发布系统.csproj", "{87A45950-D80B-4C18-B2F3-4E1168767C86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTcms.DBUtility", "企业新闻管理及发布系统\DTcms.DBUtility\DTcms.DBUtility.csproj", "{E2C9435B-CB68-465A-BDF9-333F2D75E81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTcms.Common", "企业新闻管理及发布系统\DTcms.Common\DTcms.Common.csproj", "{56213535-7FD9-4ACD-A497-705670CE61DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{87A45950-D80B-4C18-B2F3-4E1168767C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A45950-D80B-4C18-B2F3-4E1168767C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A45950-D80B-4C18-B2F3-4E1168767C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C9435B-CB68-465A-BDF9-333F2D75E81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C9435B-CB68-465A-BDF9-333F2D75E81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C9435B-CB68-465A-BDF9-333F2D75E81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C9435B-CB68-465A-BDF9-333F2D75E81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56213535-7FD9-4ACD-A497-705670CE61DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56213535-7FD9-4ACD-A497-705670CE61DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56213535-7FD9-4ACD-A497-705670CE61DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56213535-7FD9-4ACD-A497-705670CE61DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
