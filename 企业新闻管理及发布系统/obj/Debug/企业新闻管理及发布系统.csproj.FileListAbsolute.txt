@@ -1,10 +1,12 @@
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.csprojResolveAssemblyReference.cache
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.dll.licenses
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\企业新闻管理及发布系统.dll.config
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\企业新闻管理及发布系统.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\企业新闻管理及发布系统.pdb
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.csprojResolveAssemblyReference.cache
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.dll
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.pdb
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\DTcms.Common.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\DTcms.DBUtility.dll
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\LitJSON.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\DTcms.Common.pdb
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\bin\DTcms.DBUtility.pdb
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.dll
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\obj\Debug\企业新闻管理及发布系统.pdb

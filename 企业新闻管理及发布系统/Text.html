@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="Js/jquery-2.2.3.min.js"></script>
+    <script src="Js/jquery.shCircleLoader-min.js"></script>
+    <link href="Css/jquery.shCircleLoader.css" rel="stylesheet" />
+    
+    <style type="text/css">
+        div{
+            height:100px;
+            width:100px;
+        }
+        .myns > div {
+    box-shadow: 0 0 6px black, inset 0 0 6px black;
+}
+        .mask {    
+            position: absolute; top: 0px; filter: alpha(opacity=60); background-color: #777;  
+            z-index: 1002; left: 0px;  
+            opacity:0.5; -moz-opacity:0.5;  
+        }  
+    </style>
+</head>
+<body>
+    <div class="loading7">
+
+    </div>
+    <div id="mask" class="mask"></div>
+    <a id="b">asdasd</a>
+</body>
+<script type="text/javascript">
+    $('.loading7').shCircleLoader({
+        namespace: 'myns',
+        color: 'transparent',
+        dotsRadius: 15
+    });
+    $(document).ready(function () {
+        $("#b").click(function(){
+            $("#mask").css("height", $(document).height());
+            $("#mask").css("width", $(document).width());
+            $("#mask").show();
+        
+        });
+
+
+    });
+</script>
+</html>

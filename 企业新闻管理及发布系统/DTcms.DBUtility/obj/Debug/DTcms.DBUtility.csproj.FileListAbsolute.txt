@@ -168,7 +168,8 @@ D:\工作学习\数据库课程设计\EAS\WebApplication1\DTcms.DBUtility\obj\De
 D:\工作学习\数据库课程设计\EAS\WebApplication1\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.pdb
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.dll
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\bin\Debug\DTcms.Common.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\bin\Debug\DTcms.Common.pdb
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.dll
+C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb

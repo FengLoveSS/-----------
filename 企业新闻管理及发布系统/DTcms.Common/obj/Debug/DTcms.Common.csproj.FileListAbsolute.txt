@@ -114,6 +114,5 @@ D:\工作学习\数据库课程设计\EAS\WebApplication1\DTcms.Common\obj\Debug
 D:\工作学习\数据库课程设计\EAS\WebApplication1\DTcms.Common\obj\Debug\DTcms.Common.pdb
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.Common\bin\Debug\DTcms.Common.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.Common\bin\Debug\DTcms.Common.pdb
-C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.Common\obj\Debug\DTcms.Common.csprojResolveAssemblyReference.cache
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.Common\obj\Debug\DTcms.Common.dll
 C:\Users\李俊峰\Documents\Visual Studio 2013\Projects\企业新闻管理及发布系统\企业新闻管理及发布系统\DTcms.Common\obj\Debug\DTcms.Common.pdb
